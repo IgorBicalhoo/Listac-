@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1728485776 source:c:\users\ibnp2\documents\listac++\exercicio\lista.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	"Lista.h"
+
+1728485408 c:\users\ibnp2\documents\listac++\exercicio\lista.h
+	<string>
+
+1728485772 source:c:\users\ibnp2\documents\listac++\exercicio\main.cpp
+	<iostream>
+	<string>
+	"Lista.h"
+
